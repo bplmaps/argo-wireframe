@@ -1,0 +1,55 @@
+{
+  "shortSiteName": "ARGO",
+  "headerNavigation": [
+    {
+      "name": "Home",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "Search Collections",
+      "link": "/collections/search",
+      "external": false
+    },
+    {
+      "name": "Explore Stories",
+      "link": "/category/essay",
+      "external": false
+    },
+    
+    {
+      "name": "More",
+      "link": "#",
+      "children": [
+        {
+          "name": "Live Events",
+          "link": "/blah",
+          "external": false
+        },
+        {
+          "name": "Support for Researchers",
+          "link": "/research",
+          "external": false
+        },
+         {
+           "name": "Educator Resources",
+           "link": "/about-us",
+           "external": false
+         }
+      ]
+    }
+  ],
+  "footerNavigation": [
+
+    {
+      "name": "Leventhal Map & Education Center at the Boston Public Library",
+      "link": "https://www.leventhalmap.org",
+      "external": true
+    },
+    {
+      "name": "Washington Library at Mount Vernon",
+      "link": "https://www.mountvernon.org/library/",
+      "external": true
+    }
+  ]
+}
