@@ -77,9 +77,6 @@
       bio
       image(width:150, height:150)
       cover
-      facebook
-      twitter
-      linkedin
       belongsTo(perPage: 6, page: $page) @paginate {
         totalCount
         pageInfo {

@@ -3,7 +3,8 @@
     <content-header
       :title="$static.metadata.siteName"
       :sub="$static.metadata.siteDescription"
-      image="phoenix-han-Nqdh0G8rdCc-unsplash.jpg"
+      image="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:z603vs09b/208,2689,3619,1585/,1200/0/default.jpg"
+      :staticImage="false"
     ></content-header>
 
     <div class="container mx-auto">
