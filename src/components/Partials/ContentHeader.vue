@@ -8,7 +8,7 @@
     <div v-if="hasImage" class="z-100 relative mt-0 h-auto">
       <g-image
         v-if="hasImage && staticImage"
-        :src="require(`!!assets-loader!@pageImage/${image}`)"
+        :src="image"
         width="1400"
         height="400"
         class="object-cover absolute -z-10 h-full w-full"
