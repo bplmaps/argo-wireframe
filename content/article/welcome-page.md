@@ -1,0 +1,21 @@
+---
+title: Welcome to ARGO!
+tags: meta
+category: Essay
+excerpt: Welcome to the future home of ARGO: American Revolutionary Geographies Online, a joint project of the Washington Library at Mount Vernon and the Leventhal Map and Education Center.
+created: 2021-09-03
+image: ./images/monmouth.jpg
+image_caption: Michel Capitaine du Chesnoy, Carte de l'affaire de Montmouth, ou le Général Washington commandon l'armée Americaine, et le Général Clinton l'armée Angloise le 28 Juin 1778
+author: author3
+featured: true
+---
+
+Welcome to the future home of *ARGO: American Revolutionary Geographies Online*, a joint project of the [Fred W. Smith Library for the Study of George Washington at Mount Vernon][1] and the [Norman B. Leventhal Map and Education Center at the Boston Public Library][2]. The *ARGO* map portal will be a comprehensive, curated collection of geographic depictions of North America created between 1750 and 1800, drawn from institutions across North America and Europe. The portal will include published and manuscript maps, land surveys, battle maps, views, and more, all supported by a robust interpretive framework that will make these materials more accessible and understandable than ever before.   
+
+*ARGO* will launch in Summer 2022. Until then, you can use this site to browse the maps [currently in the collection][3] and check out some of our teaser articles (coming soon!).
+
+For comments and inquires, you can contact us at (coming soon!)
+
+[1]:https://www.mountvernon.org/library/
+[2]:https://www.leventhalmap.org/
+[3]:https://argo-dev.netlify.app/collections/search
