@@ -2,7 +2,8 @@
 title: Welcome to ARGO!
 tags: meta
 category: Essay
-excerpt: Welcome to the future home of ARGO: American Revolutionary Geographies Online, a joint project of the Washington Library at Mount Vernon and the Leventhal Map and Education Center.
+excerpt: >
+ Welcome to the future home of ARGO: American Revolutionary Geographies Online, a joint project of the Washington Library at Mount Vernon and the Leventhal Map and Education Center.
 created: 2021-09-03
 image: ./images/monmouth.jpg
 image_caption: Michel Capitaine du Chesnoy, Carte de l'affaire de Montmouth, ou le Général Washington commandon l'armée Americaine, et le Général Clinton l'armée Angloise le 28 Juin 1778
